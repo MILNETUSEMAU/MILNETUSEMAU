@@ -1,0 +1,13 @@
+<span id="a">votre-prénom@votre-nom</span> :<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglalag -->About_Us 
+<span id="a">votre-prénom@votre-nom</span> :<span id="b">~</span>< span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[votre-nom].txt<br/><br/> 
+Ma citation de code préférée, "<span id="k"> Citation que vous aimez</span>". <!-- sjkfhskjf --> 
+
+Salut ! Ceci est le site Web du portefeuille dans la peau d'un terminal.<!-- laglaglaglaglaglaglaglaglaglaglalag --><p>Vous pouvez le voir, voici à quoi ressemblerait votre portefeuille.</p> 
+<p>
+<p> Vous pouvez également dire ce que vous avez travaillé et connu et quelles compétences vous avez, vous pouvez également donner un lien vers votre portfolio professionnel ici<a href="link">portfolio</a>.</p>< ! -- delaydelaydelaydelaydelaydelaydelay --> 
+<p>Dites-en plus sur vous. <br><br><br>Donnez des liens à votre projet ou quelque chose comme ça. <a href="link"> Et voilà</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay--> 
+<p>Vous pouvez donner des liens vers d'autres profils professionnels que vous avez sur Internet, ici : <br> < a href="link1">Profil1</a> <br> <a href="link2">Profil2</a> et <br> <a href="link3">Profil3</a>.</p> 
+
+Vous pouvez également donner votre identifiant de messagerie pour vous contacter<!-- lightdelayici-->, n'hésitez pas à m'envoyer un email à<!-- longlonglongcomment --><a href="Votre identifiant de messagerie">Email</a> . 
+
+<p>Bravo !</p>
