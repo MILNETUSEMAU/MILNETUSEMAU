@@ -1,44 +1,44 @@
-body { 
-	background-color: #000 
-} 
+body {
+	background-color: #000
+}
 
-#console { 
-	font-family: courier, monospace; 
-	couleur : #fff ; 
-	largeur : 750 px ; 
-	marge-gauche:auto; 
-	marge-droite : auto ; 
-	marge-haut : 100 px ; 
-	taille de police : 14 px ; 
-} 
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	font-size:14px;
+}
 
-une { 
-	couleur : #0bc ; 
-	décoration de texte : aucune ; 
-} 
+a {
+	color: #0bc;
+	text-decoration: none;
+}
 
-#a { 
-	couleur : #0f0 ; 
-} 
+#a {
+	color: #0f0;
+}
 
-#c { 
-	couleur : #0bc ; 
-} 
+#c {
+	color: #0bc;
+}
 
-#b { 
-	couleur : #ff0096 ; 
-} 
+#b {
+	color: #ff0096;
+}
 
-#k { 
-    	animation : changer 1s ; 
-} 
+#k {
+    	animation: change 1s;
+}
 
-#op{ 
-    	color: #888888 
-} 
+#op{
+    	color: #888888
+}
 
-@keyframes change { 
-    	0% { color: #0f0; } 
-    	50 % { couleur : #0f0 ; }
-    	99 % { couleur : noir ; } 
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
 }
