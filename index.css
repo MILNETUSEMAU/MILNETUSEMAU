@@ -1,0 +1,44 @@
+body { 
+	background-color: #000 
+} 
+
+#console { 
+	font-family: courier, monospace; 
+	couleur : #fff ; 
+	largeur : 750 px ; 
+	marge-gauche:auto; 
+	marge-droite : auto ; 
+	marge-haut : 100 px ; 
+	taille de police : 14 px ; 
+} 
+
+une { 
+	couleur : #0bc ; 
+	décoration de texte : aucune ; 
+} 
+
+#a { 
+	couleur : #0f0 ; 
+} 
+
+#c { 
+	couleur : #0bc ; 
+} 
+
+#b { 
+	couleur : #ff0096 ; 
+} 
+
+#k { 
+    	animation : changer 1s ; 
+} 
+
+#op{ 
+    	color: #888888 
+} 
+
+@keyframes change { 
+    	0% { color: #0f0; } 
+    	50 % { couleur : #0f0 ; }
+    	99 % { couleur : noir ; } 
+}
